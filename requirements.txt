@@ -1,0 +1,10 @@
+# ---- Used Car Price Prediction System : dependencies ----
+# IMPORTANT: scikit-learn version must be EXACTLY the one used to save the .pkl model
+# (the model was saved with scikit-learn 1.9.0 -> requires Python 3.11 or newer).
+streamlit>=1.40
+pandas>=2.2
+numpy>=2.0
+joblib>=1.4
+plotly>=5.24
+scikit-learn==1.9.0
+ 
